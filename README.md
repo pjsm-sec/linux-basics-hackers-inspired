@@ -16,6 +16,7 @@ Before running any script, make sure to give it execute permissions by changing 
 
 ```bash
 chmod 775 script-name.sh
+```
 
 ## Disclaimer
 
