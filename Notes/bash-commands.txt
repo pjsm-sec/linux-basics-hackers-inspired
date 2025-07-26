@@ -1,0 +1,28 @@
+COMANDO     DESCRIÇÃO
+:           Retorna 0 ou verdadeiro
+.           Executa um script shell
+bg          Coloca um trabalho em segundo plano
+break       Sai do loop atual
+cd          Muda de diretório
+continue    Retoma o loop atual
+echo        Exibe os argumentos do comando
+eval        Avalia a expressão seguinte
+exec        Executa o comando seguinte sem criar um novo processo
+exit        Encerra o shell
+export      Torna uma variável ou função disponível para outros programas
+fg          Traz um trabalho para o primeiro plano
+getopts     Analisa os argumentos do script shell
+jobs        Lista trabalhos em segundo plano
+pwd         Exibe o diretório atual
+read        Lê uma linha da entrada padrão
+readonly    Declara uma variável como somente leitura
+set         Lista todas as variáveis
+shift       Move os parâmetros para a esquerda
+test        Avalia argumentos
+[           Realiza um teste condicional
+times       Exibe o tempo de usuário e sistema
+trap        Captura um sinal
+type        Exibe como cada argumento seria interpretado como comando
+umask       Altera as permissões padrão para um novo arquivo
+unset       Remove valores de uma variável ou função
+wait        Aguarda a conclusão de um processo em segundo plano
