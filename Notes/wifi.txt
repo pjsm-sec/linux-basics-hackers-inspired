@@ -1,0 +1,26 @@
+WIFI TERMS:
+
+AP (access point) - The device used to connect to the internet.
+SSID (service set identifier) - Network's name.
+ESSID (extended service set identifier) - The same as SSID. Can be used for multiple APs.
+BSSID (basic service set identifer) - Each AP's unique identifer. The same as he device's MAC address.
+Channel - One of 14 channels WIFI can operate one.
+Power - The closer one is to the WIFI AP, the greater the power. The closer to the AP, the greater the power and the easier it is to crack the connection.
+Security - Protocol.
+    WEP (wired equivalent privacy) - cracked.
+    WPA (WIFI protected access) - more secure.
+    WPA2-PSK - even more secure. Uses a preshared key (PSK).
+Modes
+    Managed
+    Master
+    Monitor
+Wireless range 
+Frequency
+
+COMMANDS:
+ifconfig - lists all activated network interfaces.
+iwconfig - lists all WIFI interfaces.
+islist - lists all wireless access points.
+    iwlist interface action
+        iwlist wlan0 scan
+nmcli - list near wifi access points and respective key data.
