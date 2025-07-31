@@ -1,0 +1,12 @@
+FUNCTIONS
+
+exit() - exit the program.
+float() - returns as a floating-point numeric value.
+help()
+int() - returns as an integer numeric value.
+len() - returns the length of an iterable.
+max()
+open() - opens a file.
+range() - returns a list os integers in a specified range.
+sorted() - sorts lists.
+type() - returns the arugment's type.
